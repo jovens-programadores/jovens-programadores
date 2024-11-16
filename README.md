@@ -49,7 +49,7 @@ Capacitar crianças e adolescentes em situação de vulnerabilidade social nas h
 ---
 
 ## 🎓 Público-Alvo  
-Crianças e adolescentes entre **10 e 16 anos**, em situação de vulnerabilidade social, que tenham interesse em aprender e crescer na área de tecnologia.  
+Crianças e adolescentes entre **10 e 18 anos**, em situação de vulnerabilidade social, que tenham interesse em aprender e crescer na área de tecnologia.  
 
 ---
 
