@@ -41,11 +41,6 @@ Fazer da tecnologia um instrumento de transformação social, democratizando o a
 - **Email**: jovensprogramadores@gmail.com  
 ---
 
-## 😄 Pronomes  
-- **Nós** usamos: *eles/elas*.
-
----
-
 ## ⚡ Curiosidade  
 Sabia que o primeiro programador da história foi uma mulher? A matemática Ada Lovelace é considerada a primeira programadora por seus estudos sobre a Máquina Analítica de Charles Babbage! 🎉  
 
