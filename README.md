@@ -134,5 +134,43 @@ Com sua experiência prática em educação tecnológica e desenvolvimento de si
 ### Contatos  
 - **Portfólio GitHub**: [github.com/EmersonGomes21](https://github.com/EmersonGomes21)  
 - **LinkedIn**: [linkedin.com/in/emerson-gomes-rebolsas](https://www.linkedin.com/in/emerson-gomes-rebolsas)  
-- **E-mail**: emersongr7@gmail.com  
+- **E-mail**: emersongr7@gmail.com
+
+### Amanda Gomes Rebolsas  
+**Desenvolvedora FullStack JavaScript | Entusiasta em Educação e Engenharia de Software**  
+
+Amanda Gomes Rebolsas é uma desenvolvedora FullStack com sólida experiência em aplicações web e mobile, atuando com tecnologias modernas como **React.js, React Native, Next.js, Node.js e TypeScript**, além de bancos de dados relacionais e não relacionais.  
+
+Graduada em **Análise e Desenvolvimento de Sistemas (UNAMA)** e atualmente **pós-graduanda em Engenharia de Software (PUC Minas)**, Amanda se destaca pela capacidade de criar soluções escaláveis e centradas na experiência do usuário.  
+
+Com perfil colaborativo, visão crítica e paixão pelo aprendizado contínuo, Amanda busca constantemente aprimorar suas habilidades e contribuir para projetos inovadores que unem tecnologia e impacto social.  
+
+---
+
+### 🚀 Principais Conquistas e Habilidades  
+- ⚛️ **Frontend:** React.js, React Native, Next.js, TypeScript, Redux, Context API  
+- 🖥️ **Backend & APIs:** Node.js, Express, Firebase, JWT  
+- 🗄️ **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Firebase  
+- 🧪 **Testes Automatizados:** Jest, React Testing Library  
+- 🔄 **DevOps & Deploy:** Docker, GitHub Actions (CI/CD), Git  
+- 📚 Formação complementar em **Rocketseat, Harvard (CS50), MIT e Udemy**  
+- 🏆 Experiência com metodologias ágeis (**Scrum, Kanban, XP**)  
+
+---
+
+### 🌍 Conexão com o Projeto Jovens Programadores  
+Com sua experiência prática em desenvolvimento FullStack e sua formação voltada para engenharia de software, **Amanda é uma peça essencial no projeto Jovens Programadores**.  
+
+Sua dedicação em criar soluções tecnológicas de qualidade, aliada ao compromisso com a inclusão digital, fortalece a missão de **formar novos talentos e transformar realidades por meio da educação em tecnologia**.  
+
+---
+
+### 📬 Contatos  
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mandiegr)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-gomes-rebolsas-5138a0222/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandagr.eng.software@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591991843012)  
+
+  
 
